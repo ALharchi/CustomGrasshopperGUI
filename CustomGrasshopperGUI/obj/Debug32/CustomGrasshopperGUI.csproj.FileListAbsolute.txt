@@ -1,4 +1,0 @@
-D:\Dropbox\ITECH\Projects\CustomGrasshopperGUI\CustomGrasshopperGUI\bin\CustomGrasshopperGUI.dll
-D:\Dropbox\ITECH\Projects\CustomGrasshopperGUI\CustomGrasshopperGUI\bin\CustomGrasshopperGUI.pdb
-D:\Dropbox\ITECH\Projects\CustomGrasshopperGUI\CustomGrasshopperGUI\obj\Debug32\CustomGrasshopperGUI.dll
-D:\Dropbox\ITECH\Projects\CustomGrasshopperGUI\CustomGrasshopperGUI\obj\Debug32\CustomGrasshopperGUI.pdb
